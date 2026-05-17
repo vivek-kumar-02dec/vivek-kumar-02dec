@@ -24,22 +24,63 @@ Passionate Software Developer specializing in full-stack web applications and cl
 <!-- Tools + GIF SAME SECTION -->
 <h3 align="left">Languages and Tools:</h3>
 
-<table style="border:none; border-collapse: collapse; width:100%;">
+<table>
 <tr>
 
 <!-- LEFT SIDE (TOOLS GRID) -->
-<td style="border:none; width:60%; vertical-align: middle;">
+<td width="65%" valign="top">
 
-<table style="border:none; border-collapse: collapse;">
+<table>
 <tr>
 <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"></td>
+
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"></td>
+
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"></td>
+
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"></td>
+
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"></td>
+
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"></td>
 </tr>
 
 <tr>
 <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"></td>
-<td><img src="https://raw.githubuserc
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"></td>
+</tr>
+
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"></td>
+</tr>
+</table>
+
+</td>
+
+<!-- RIGHT SIDE GIF -->
+<td width="35%" align="right">
+
+<img
+  align="right"
+  alt="Coding"
+  width="300"
+  src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"
+/>
+
+</td>
+
+</tr>
+</table>
