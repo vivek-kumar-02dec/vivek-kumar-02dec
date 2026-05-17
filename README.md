@@ -9,7 +9,7 @@ Passionate Software Developer specializing in full-stack web applications and cl
 </p>
 
 <!-- Connect Section -->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vivek-kumar-02dec/" target="_blank">
@@ -19,7 +19,7 @@ Passionate Software Developer specializing in full-stack web applications and cl
   <a href="https://leetcode.com/u/vivek_kumar_0212/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
   </a>
-</p>
+</p> -->
 
 <!-- Tools + GIF SAME SECTION -->
 <h3 align="left">Languages and Tools:</h3>
